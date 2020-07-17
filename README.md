@@ -1,0 +1,1 @@
+Hello, for this project I will be recreating the Google homepage. Using basic html and css, recreating the google homepage is my goal for this project. The skills I will have demonstrated are good use of basic semantic html structure, basic use of css selectors and a good understanding of the design concerning css.
